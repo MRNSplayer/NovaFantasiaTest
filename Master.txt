@@ -1,5 +1,5 @@
 <Version: 1.01>
-data/CommonEvents.json https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/CommonEvents.json
-data/Map290.json https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/Map290.json
-js/plugin.js https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/plugins.js
+/data/CommonEvents.json https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/CommonEvents.json
+/data/Map290.json https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/Map290.json
+/js/plugin.js https://raw.githubusercontent.com/MRNSplayer/NovaFantasiaUpdate/main/plugins.js
 <End of Version>
